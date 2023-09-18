@@ -1,0 +1,24 @@
+.formulario{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 80px 50px;
+    gap: 80px;
+}
+.formulario form{
+    width: 45%;
+    flex:1;
+    border-radius: 20px;
+    background: #F6F6F6;
+    mix-blend-mode: multiply;
+    box-shadow: 7px 7px 15px 0px rgba(0, 0, 0, 25%);
+}
+.formulario h2{
+    text-align: center;
+    color: #212121;
+    font-family: Prata;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
